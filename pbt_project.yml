@@ -1,0 +1,50 @@
+name: randy.yost
+description: Balanced
+version: 0.0.1-SNAPSHOT
+author: 6y9sysbc.v4wy08rl@axfuocut.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: randyyost
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2025-12-05 22:42:33'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-12-05 22:42:33'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-12-05T22:42:33.473653Z'
+  name: plibMaven
+  version: 8.16.0-SNAPSHOT
+  id: '1431689714'
+  createdAt: '2025-12-05T22:42:33.473653Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
